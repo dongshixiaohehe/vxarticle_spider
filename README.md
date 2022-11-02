@@ -89,7 +89,7 @@
     "msg": "ok",
     "data": [
         {
-            "id": 3,
+            "id":  3,
             "my_id": 15481,
             "nick_name": "杨正文",
             "logo_url": "http://mmsns.qpic.cn/mmsns/iaxNB5XaibCeLTYWIUGCYm7cS1kFxTx4ibUSEBZJ6VnOdXPDItJ9PaGRg/0",
