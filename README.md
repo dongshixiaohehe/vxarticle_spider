@@ -32,7 +32,7 @@
             "time": 1659619150,
             "nick_name": "石嘴山发布",
             "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTg1NDY2Ng==&mid=2247565667&idx=1&sn=61d0fa012ef21d760505338cd8313b87&chksm=fabfa546cdc82c505d67595f90f3737e8dd5276f315352a8f5b7a8ef4aaa45e60a463d18eda6&scene=58&subscene=0#rd"
-        },
+        }, 
         ...
         {
             "title": "@学生，居家安全知识来了 | 暑期安全课",
