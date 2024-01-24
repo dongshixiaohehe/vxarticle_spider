@@ -4,7 +4,7 @@
 微信公众号文章的阅读数, 在看数、 评论数评论列表, 还有微信公众号的账号基本信息。
 # 微信视频号采集
 ## 1.采集视频地址 
-## 2.用户主页数据   
+## 2.用户主页数据     
 ## 3 视频评论数据
 ## 4.twitter数据采集 twitter爬虫 无限制，日提供数据2亿
 twitter： https://github.com/dongshixiaohehe/twitter_data_servers
