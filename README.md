@@ -10,7 +10,7 @@
 twitter： https://github.com/dongshixiaohehe/twitter_data_servers 
 
 采集难点： 采集以上数据需要客户端的一些参数，比如 x-wechat-key  __biz 、appmsg_token 、pass_ticket等。
-#### 服务地址 联系飞机:  https://t.me/dada123api
+#### 服务地址 联系飞机:  https://t.me/dada123api   q:1095087360
 
 
 ##### gzh长连接转短连接，转永久链接
